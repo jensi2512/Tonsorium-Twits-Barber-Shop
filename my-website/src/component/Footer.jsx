@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "../static/Footer.css"
+import "../Static/Footer.css"
 import footer1 from "../assets/footer1.png"
 import footerlogo from '../assets/footerlogo.png'
 import { useUser } from "@clerk/clerk-react";
