@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import './App.css'
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import Home from './Component/Home'
-import About from './Component/About'
+import Home from './component/Home'
+import About from './component/About'
 import Blog from './component/Blog'
 import Service from './component/Service'
 import Navber from './component/Navbar'
