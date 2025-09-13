@@ -1,4 +1,4 @@
-import "../static/About.css"
+import "../Static/About.css"
 import about1 from "../assets/about1.avif"
 import about2 from "../assets/about2.avif"
 import about3 from "../assets/about3.avif"
@@ -104,7 +104,7 @@ function About() {
                                         </div>
                                     </div>
                                 </div>
-                                <div className="col-7" style={{textAlign : "start" , textAlign : "justify"}}>
+                                <div className="col-7" style={{textAlign : "justify"}}>
                                     <h2>Edwin Wood</h2>
                                     <p>Edwin completed an accredited training program offered through a barber and cosmetology school. He has high school diploma and certificate of completion of an accredited barber training program of the National Accrediting Commission of Cosmetology Arts and Sciences. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel nulla nihil labore incidunt ullam aspernatur ipsam deserunt fuga voluptates architecto! Dolore magni natus iusto perferendis esse fugit vel assumenda ipsam.</p>
                                     <p>Edwin is one of the most famous and best (as well as the highest paid) barbers in the country. He regularly holds master classes and workshops for barbers both in town and abroad. He is an author of numerous articles on beard/mustache styling in many famous magazines. Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta accusantium fugiat nesciunt illum. Quo, dolores. Laborum architecto iste maxime libero!</p>
