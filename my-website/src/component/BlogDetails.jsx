@@ -1,4 +1,4 @@
-import "../static/Blog.css"
+import "../Static/Blog.css"
 import servicehero from "../assets/service-hero.jpg"
 import blog1 from "../assets/blog1.png"
 import blog2 from "../assets/blog2.jpg"
