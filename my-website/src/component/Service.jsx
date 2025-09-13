@@ -1,4 +1,4 @@
-import "../static/Service.css"
+import "../Static/Service.css"
 import servicehero from "../assets/service-hero.jpg"
 import service2 from "../assets/service2.avif"
 function Service() {
